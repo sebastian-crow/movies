@@ -1,4 +1,4 @@
-# movieapp
+# Nuxtjs Movies App
 
 ## Build Setup
 
